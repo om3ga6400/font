@@ -10,7 +10,7 @@
 
 ## Roadmap
 - [x] Complete full alphabet (A-Z and a-z)
-- [ ] Fix stuff
+- [ ] Fix stuff (Consistency, etc.)
 - [ ] Add numbers (0-9)
 - [ ] Fix stuff
 - [ ] Design special characters
