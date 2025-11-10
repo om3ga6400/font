@@ -9,7 +9,7 @@
 - Perfect circles for all curves
 
 ## Roadmap
-- [ ] Complete full alphabet (A-Z and a-z)
+- [x] Complete full alphabet (A-Z and a-z)
 - [ ] Fix stuff
 - [ ] Add numbers (0-9)
 - [ ] Fix stuff
