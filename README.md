@@ -9,12 +9,9 @@
 - Perfect circles for all curves
 
 ## Roadmap
-- [x] Complete full alphabet (A-Z and a-z)
-- [x] Fix stuff (Consistency, etc.)
-- [ ] Add numbers (0-9)
-- [ ] Fix stuff
-- [ ] Design special characters
-- [ ] Fix stuff
+- [x] Finish full alphabet (A-Z and a-z)
+- [ ] Make numbers (0-9)
+- [ ] Make special characters
 - [ ] Generate font file
 
 ## Preview
